@@ -1,8 +1,10 @@
 import { createGlobalStyle } from "styled-components"
+import './font.css'
 
 export const GlobalStyle = createGlobalStyle`
   body,
   html {
+    font-family: SaveurSans;
     height: 100%;
     margin: 0;
     padding: 0;

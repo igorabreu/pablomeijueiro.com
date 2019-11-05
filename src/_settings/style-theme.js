@@ -1,6 +1,8 @@
 export const theme = {
   color: {
-    darkBlue: "#0c3551"
+    darkBlue: "#0c3551",
+    pearlLusta: "#fcf4d4",
+    redOrange: "#ff362f"
   },
   font: {},
   functions: {

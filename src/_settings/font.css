@@ -1,0 +1,24 @@
+@font-face {
+	font-family: 'SaveurSans';
+	src: url('../assets//fonts/SaveurSans-Regular.otf') format('opentype');
+	font-weight: 400;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'SaveurSans';
+	src: url('../assets/fonts/SaveurSans-Light.otf') format('opentype');
+	font-weight: 300;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'SaveurSans';
+	src: url('../assets/fonts/SaveurSans-Bold.otf') format('opentype');
+	font-weight: 700;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'SaveurSans';
+	src: url('../assets/fonts/SaveurSans-Semi-bold.otf') format('opentype');
+	font-weight: 600;
+	font-style: normal;
+}
